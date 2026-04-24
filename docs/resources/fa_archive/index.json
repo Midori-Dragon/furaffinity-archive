@@ -1560,10 +1560,10 @@
     {
       "file": "fa_logo.webp",
       "title": "FA Logo",
-      "userUrl": "https://bsky.app/profile/furaffinity.net",
-      "userName": "Furaffinity",
-      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi2grxci2h",
-      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreicldflhiyka6jkfkwho6bsxhuuwq7gu5kti3j5af7jyby4ydumu7a",
+      "userUrl": "https://www.furaffinity.net/user/sciggles/",
+      "userName": "Sciggles",
+      "postUrl": "https://www.furaffinity.net/view/42140481/",
+      "directUrl": "https://d.furaffinity.net/art/sciggles/1622574115/1622574114.sciggles_pawbsplatcleanwhite2transppride.jpg",
       "date": "2021-05-31"
     },
     {
@@ -1709,6 +1709,15 @@
       "postUrl": "https://x.com/FurAffinity/status/1399427530000633857",
       "directUrl": "https://pbs.twimg.com/media/E2vDzMyX0AU4lAZ?format=png&name=small",
       "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_orange.jpg",
+      "title": "FA Logo Orange",
+      "userUrl": "https://www.furaffinity.net/user/sciggles",
+      "userName": "Sciggles",
+      "postUrl": "https://x.com/Sciggles/status/1356437547883323393",
+      "directUrl": "https://pbs.twimg.com/media/EtMIsIjXYAEY6z4?format=jpg&name=4096x4096",
+      "date": "2021-02-02"
     }
   ],
   "posts_and_art": [
@@ -1758,6 +1767,15 @@
       "date": "2025-05-06"
     },
     {
+      "file": "dragoneer_i_was_here_badge.png",
+      "title": "I Was Here Badge",
+      "userUrl": "https://www.furaffinity.net/user/sciggles/",
+      "userName": "Sciggles",
+      "postUrl": "https://www.furaffinity.net/view/60077164/",
+      "directUrl": "https://d.furaffinity.net/art/sciggles/1740958356/1740958284.sciggles_iwasherebadgefa.png",
+      "date": "2025-02-28"
+    },
+    {
       "file": "fa_offline.jpg",
       "title": "Still Down",
       "userUrl": "https://x.com/FurAffinity",
@@ -1787,47 +1805,134 @@
     {
       "file": "fender_dj.jpg",
       "title": "FA Music Monday",
-      "userUrl": "https://x.com/FurAffinity",
-      "userName": "Furaffinity",
+      "userUrl": [
+        "https://www.furaffinity.net/user/sciggles/",
+        "https://www.furaffinity.net/user/wintersnowolf/"
+      ],
+      "userName": [
+        "Sciggles",
+        "WinterSnoWolf"
+      ],
       "postUrl": "https://x.com/FurAffinity/status/1311004904064987137",
       "directUrl": "https://pbs.twimg.com/media/EjGf3YRXgAAAoIC?format=jpg&name=large",
       "date": "2020-09-29"
     },
     {
-      "file": "fa_unearthed_2019.png",
-      "title": "FA Unearthed 2019",
-      "userUrl": "https://x.com/FurAffinity",
-      "userName": "Furaffinity",
-      "postUrl": "https://x.com/FurAffinity/status/1162153682642898944",
-      "directUrl": "https://pbs.twimg.com/media/ECDMnRKWsAEB8FC?format=png&name=900x900",
-      "date": "2019-08-16"
+      "file": "fa_united_2020.jpg",
+      "title": "FA United 2020",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/1236061708709396487",
+      "directUrl": "https://pbs.twimg.com/media/ESdfkf9XQAAyf9R?format=jpg&name=medium",
+      "date": "2020-03-06"
     },
     {
-      "file": "fa_united_2018_3.jpg",
+      "file": "fa_unearthed_2019_3.png",
+      "title": "FA Unearthed 2019",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/1168303875293634560",
+      "directUrl": "https://pbs.twimg.com/media/EDamLkdXYAImAea?format=png&name=900x900",
+      "date": "2019-09-02"
+    },
+    {
+      "file": "fa_unearthed_2019_2.jpg",
+      "title": "FA United 2019",
+      "userUrl": "https://www.furaffinity.net/user/wintersnowolf/",
+      "userName": "WinterSnoWolf",
+      "postUrl": "https://www.furaffinity.net/view/34650109/",
+      "directUrl": "https://d.furaffinity.net/art/wintersnowolf/1579317629/1579317629.wintersnowolf_img_20200117_221906_634.jpg",
+      "date": "2019-04-07"
+    },
+    {
+      "file": "fa_unearthed_2019.jpg",
+      "title": "FA Unearthed 2019",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/1085252836873699329",
+      "directUrl": "https://pbs.twimg.com/media/Dw-XU9YWoAAjm-G?format=jpg&name=small",
+      "date": "2019-01-15"
+    },
+    {
+      "file": "fa_united_2018_shirt.jpg",
+      "title": "FA United 2018 Shirt",
+      "userUrl": "https://www.furaffinity.net/user/likeshine/",
+      "userName": "likeshine",
+      "postUrl": "https://x.com/faunited/status/1024674911640596480",
+      "directUrl": "https://pbs.twimg.com/media/Djhf7VcX0AAo34M?format=jpg&name=large",
+      "date": "2018-08-01"
+    },
+    {
+      "file": "fa_united_2018_4.jpg",
       "title": "FA United 2018",
-      "userUrl": "https://x.com/FurAffinity",
-      "userName": "Furaffinity",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
       "postUrl": "https://x.com/FurAffinity/status/1009472482003341312",
       "directUrl": "https://pbs.twimg.com/media/DgJcoV9W4AA-0HG?format=jpg&name=small",
       "date": "2018-06-20"
     },
     {
-      "file": "fa_united_2018_2.jpg",
+      "file": "fa_united_2018_3.jpg",
       "title": "FA United 2018",
-      "userUrl": "https://x.com/FurAffinity",
-      "userName": "Furaffinity",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
       "postUrl": "https://x.com/FurAffinity/status/1003762194281050112",
       "directUrl": "https://pbs.twimg.com/media/De4UVFeWAAEIDuT?format=jpg&name=small",
       "date": "2018-06-05"
     },
     {
-      "file": "fa_united_2018.jpg",
+      "file": "say_cheese.png",
+      "title": "Say 'cheeeese!'",
+      "userUrl": "https://www.furaffinity.net/user/felisrandomis",
+      "userName": "FelisRandomis",
+      "postUrl": "https://x.com/faunited/status/968206275392819201",
+      "directUrl": "https://pbs.twimg.com/media/DW_CdJNUMAAIbhU?format=png&name=large",
+      "date": "2018-02-26"
+    },
+    {
+      "file": "fa_united_2018_2.jpg",
       "title": "FA United 2018",
-      "userUrl": "https://x.com/FurAffinity",
-      "userName": "Furaffinity",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
       "postUrl": "https://x.com/FurAffinity/status/954527749150052352",
       "directUrl": "https://pbs.twimg.com/media/DT8pfklWkAE8pfK?format=jpg&name=small",
       "date": "2018-01-20"
+    },
+    {
+      "file": "fa_united_2018.jpg",
+      "title": "FA United 2018",
+      "userUrl": "https://www.furaffinity.net/user/likeshine/",
+      "userName": "likeshine",
+      "postUrl": "https://www.furaffinity.net/view/24626142/",
+      "directUrl": "https://d.furaffinity.net/art/likeshine/1503940564/1503940470.likeshine_unnamed.jpg",
+      "date": "2017-08-28"
+    },
+    {
+      "file": "fa_united_2017_dance_competition.jpg",
+      "title": "FA United 2017 Dance Competition",
+      "userUrl": "https://www.furaffinity.net/user/sciggles/",
+      "userName": "Sciggles",
+      "postUrl": "https://x.com/faunited/status/894552691837476865",
+      "directUrl": "https://pbs.twimg.com/media/DGoVS7KXcAAijnB?format=jpg&name=4096x4096",
+      "date": "2017-08-07"
+    },
+    {
+      "file": "fa_united_2017_badge.png",
+      "title": "Fa United Badge",
+      "userUrl": "https://www.furaffinity.net/user/wintersnowolf",
+      "userName": "WinterSnoWolf",
+      "postUrl": "https://x.com/faunited/status/892625258133323777",
+      "directUrl": "https://pbs.twimg.com/media/DGM9qKHXUAAE_4b?format=png&name=900x900",
+      "date": "2017-08-02"
+    },
+    {
+      "file": "fa_united_2017_badge_design.jpg",
+      "title": "FA United Badge Design",
+      "userUrl": "https://www.furaffinity.net/user/wintersnowolf/",
+      "userName": "WinterSnoWolf",
+      "postUrl": "https://www.furaffinity.net/view/24354939/",
+      "directUrl": "https://d.furaffinity.net/art/wintersnowolf/1501708700/1501708477.wintersnowolf_img_20170802_170814.jpg",
+      "date": "2017-08-02"
     },
     {
       "file": "kaiju_fender.jpg",
@@ -1864,6 +1969,33 @@
       "postUrl": "https://x.com/FurAffinity/status/867446441073160192",
       "directUrl": "https://pbs.twimg.com/media/DAnJP7hWsAEf_CU?format=jpg&name=900x900",
       "date": "2017-05-24"
+    },
+    {
+      "file": "fa_united_2017.jpg",
+      "title": "FA United 2017",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/831583718963814404",
+      "directUrl": "https://pbs.twimg.com/media/C4pg9lqWQAAlrp7?format=jpg&name=large",
+      "date": "2017-02-14"
+    },
+    {
+      "file": "fa_united_2016.png",
+      "title": "FA United 2016",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/696825730840338433",
+      "directUrl": "https://pbs.twimg.com/media/CaufTzUW4AAEjZL?format=png&name=medium",
+      "date": "2016-02-08"
+    },
+    {
+      "file": "fa_united_2015_shirt.jpg",
+      "title": "FA United 2015 Shirt",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/617131811949408256",
+      "directUrl": "https://pbs.twimg.com/media/CJB-HLrUEAEirXT?format=jpg&name=900x900",
+      "date": "2015-06-04"
     },
     {
       "file": "fau_6_3.jpg",
@@ -1927,6 +2059,15 @@
       "postUrl": "https://www.furaffinity.net/view/592685/",
       "directUrl": "https://d.furaffinity.net/art/blotch/1181352775/1181352775.blotch_fenders1.jpg",
       "date": "2007-06-09"
+    },
+    {
+      "file": "fa_united_2007_shirt.jpg",
+      "title": "FA United 2007 Shirt",
+      "userUrl": "https://x.com/faunited",
+      "userName": "FA United",
+      "postUrl": "https://x.com/faunited/status/870066291301691392",
+      "directUrl": "https://pbs.twimg.com/media/DBMYmeHXsAA6tCc?format=jpg&name=900x900",
+      "date": "2007-01-01"
     }
   ],
   "stickers": [
@@ -1979,19 +2120,19 @@
     },
     {
       "file": "furrified_icon_enamel_pin_blue.webp",
-      "title": "Furrified Icon Enamel Pin",
-      "userUrl": "https://shop.furaffinity.net/products/furrified-icon-enamel-pin",
-      "userName": "Furaffinity Shop",
-      "postUrl": "https://x.com/FurAffinity/status/1596382592361799681",
-      "directUrl": "https://shop.furaffinity.net/cdn/shop/products/furrified-icon-enamel-pin-190681_1024x1024@2x.jpg?v=1669444807",
+      "title": "Furrified Icon Enamel Pin Blue",
+      "userUrl": "https://www.furaffinity.net/user/sciggles",
+      "userName": "Sciggles",
+      "postUrl": "https://www.furaffinity.net/view/50014729/",
+      "directUrl": "https://d.furaffinity.net/art/sciggles/1669682576/1669682575.sciggles_furrified4pinmock12.png",
       "date": "2022-11-26"
     },
     {
       "file": "furrified_icon_enamel_pin_gold.webp",
-      "title": "Furrified Icon Enamel Pin",
-      "userUrl": "https://shop.furaffinity.net/products/furrified-icon-enamel-pin",
-      "userName": "Furaffinity Shop",
-      "postUrl": "https://x.com/FurAffinity/status/1596382592361799681",
+      "title": "Furrified Icon Enamel Pin Gold",
+      "userUrl": "https://www.furaffinity.net/user/sciggles",
+      "userName": "Sciggles",
+      "postUrl": "https://shop.furaffinity.net/products/furrified-icon-enamel-pin",
       "directUrl": "https://shop.furaffinity.net/cdn/shop/products/furrified-icon-enamel-pin-850235_1024x1024@2x.jpg?v=1669444807",
       "date": "2022-11-26"
     },
@@ -2007,8 +2148,9 @@
     {
       "file": "orange_splat_logo_enamel_pin.jpg",
       "title": "Orange Splat Logo Enamel Pin",
-      "userUrl": "https://shop.furaffinity.net/products/small-splat-logo-enamel-pin",
-      "userName": "Furaffinity Shop",
+      "userUrl": "https://www.furaffinity.net/user/sciggles",
+      "userName": "Sciggles",
+      "postUrl": "https://shop.furaffinity.net/products/small-splat-logo-enamel-pin",
       "directUrl": "https://shop.furaffinity.net/cdn/shop/products/preorder-orange-splat-logo-enamel-pin-preorder-920731_1024x1024@2x.jpg?v=1623209538",
       "date": "2010-01-01"
     }

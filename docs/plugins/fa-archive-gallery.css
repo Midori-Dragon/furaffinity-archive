@@ -108,3 +108,9 @@
     font-weight: var(--strong-font-weight);
     color: var(--base-color);
 }
+
+.fa-archive-more-artists {
+    font-size: var(--font-size-xs, 0.75rem);
+    color: var(--mono-tint1);
+    font-style: italic;
+}

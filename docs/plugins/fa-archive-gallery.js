@@ -42,8 +42,17 @@
         }
         if (entry.postUrl)
             parts.push('<a href="' + entry.postUrl + '" target="_blank" rel="noopener">Post</a>');
-        if (entry.userUrl)
-            parts.push('<a href="' + entry.userUrl + '" target="_blank" rel="noopener">' + (entry.userName || 'Artist') + '</a>');
+        if (entry.userUrl) {
+            if (Array.isArray(entry.userUrl)) {
+                const firstName = Array.isArray(entry.userName) ? entry.userName[0] : (entry.userName || entry.userUrl[0]);
+                let artistHtml = '<a href="' + entry.userUrl[0] + '" target="_blank" rel="noopener">' + firstName + '</a>';
+                if (entry.userUrl.length > 1)
+                    artistHtml += '<span class="fa-archive-more-artists">+' + (entry.userUrl.length - 1) + ' more</span>';
+                parts.push(artistHtml);
+            } else {
+                parts.push('<a href="' + entry.userUrl + '" target="_blank" rel="noopener">' + (entry.userName || 'Artist') + '</a>');
+            }
+        }
 
         const sep = '<span class="fa-archive-sep">|</span>';
         const infoHtml = parts.length
@@ -65,8 +74,16 @@
         }
         if (entry.postUrl)
             lbLines.push('<span><span class="fa-lb-label">Post:</span> <a href="' + entry.postUrl + '" target="_blank" rel="noopener">' + entry.postUrl + '</a></span>');
-        if (entry.userUrl)
-            lbLines.push('<span><span class="fa-lb-label">Artist:</span> <a href="' + entry.userUrl + '" target="_blank" rel="noopener">' + (entry.userName || entry.userUrl) + '</a></span>');
+        if (entry.userUrl) {
+            if (Array.isArray(entry.userUrl)) {
+                entry.userUrl.forEach(function (u, i) {
+                    const n = Array.isArray(entry.userName) ? entry.userName[i] : u;
+                    lbLines.push('<span><span class="fa-lb-label">Artist:</span> <a href="' + u + '" target="_blank" rel="noopener">' + n + '</a></span>');
+                });
+            } else {
+                lbLines.push('<span><span class="fa-lb-label">Artist:</span> <a href="' + entry.userUrl + '" target="_blank" rel="noopener">' + (entry.userName || entry.userUrl) + '</a></span>');
+            }
+        }
         if (entry.directUrl)
             lbLines.push('<span><span class="fa-lb-label">Direct:</span> <a href="' + entry.directUrl + '" target="_blank" rel="noopener">' + entry.directUrl + '</a></span>');
         const lbDesc = lbLines.length

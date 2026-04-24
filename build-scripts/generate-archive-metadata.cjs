@@ -103,6 +103,38 @@ function first(...candidates) {
 }
 
 /**
+ * Expand a multi-artist FA user URL into parallel arrays.
+ *
+ * A multi-artist URL looks like:
+ *   https://www.furaffinity.net/user/alice,bob,carol/
+ *
+ * Returns { userUrl, userName } where both are arrays when multiple artists are
+ * detected, or plain strings (pass-through) for a single artist.
+ *
+ * @param {string|undefined} url
+ * @param {string|undefined} name
+ * @returns {{ userUrl?: string|string[], userName?: string|string[] }}
+ */
+function expandUserUrl(url, name) {
+    if (!url) return {};
+    // Match the /user/<segment>/ part of a FA URL
+    const m = url.match(/^(.*\/user\/)([^/]+)(\/?)$/);
+    if (!m || !m[2].includes(',')) {
+        const out = {};
+        if (url) out.userUrl = url;
+        if (name) out.userName = name;
+        return out;
+    }
+    const base = m[1]; // e.g. "https://www.furaffinity.net/user/"
+    const usernames = m[2].split(',').map(u => u.trim()).filter(Boolean);
+    const userUrls = usernames.map(u => base + u + '/');
+    // Use comma-split name when counts match; otherwise fall back to URL slugs
+    const nameSegments = name ? name.split(',').map(n => n.trim()).filter(Boolean) : [];
+    const userNames = nameSegments.length === usernames.length ? nameSegments : usernames;
+    return { userUrl: userUrls, userName: userNames };
+}
+
+/**
  * Extract structured metadata from an image file using standard EXIF/IPTC/XMP fields.
  *
  * Field mapping (software label → standard field → JSON key):
@@ -134,10 +166,10 @@ async function extractMetadata(filePath) {
     if (title) result.title = title;
 
     const userUrl = first(raw.By_line ?? raw['By-line'], raw.Artist, raw.Creator);
-    if (userUrl) result.userUrl = userUrl;
-
     const userName = first(raw.By_lineTitle ?? raw['By-lineTitle'], raw.AuthorsPosition);
-    if (userName) result.userName = userName;
+    const artistFields = expandUserUrl(userUrl, userName);
+    if (artistFields.userUrl !== undefined) result.userUrl = artistFields.userUrl;
+    if (artistFields.userName !== undefined) result.userName = artistFields.userName;
 
     const postUrl = first(raw.WebStatement, raw.CiUrlWork);
     if (postUrl) result.postUrl = postUrl;

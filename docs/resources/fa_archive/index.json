@@ -155,8 +155,42 @@
     {
       "file": "fa-banner-pride2025.jpg",
       "title": "June 2025 Banner",
-      "userUrl": "https://www.furaffinity.net/user/xaidezignz,kygen,orimew,kampferwolf,brushfire,stormrunner,jamesalesto,sciggles,nowandlater,y2hecate,mixers,jaqrabbit,logtut,blunkinator,fiuefey,korichi/",
-      "userName": "xaidezignz,kygen,orimew,kampferwolf,brushfire,stormrunner,jamesalesto,sciggles,nowandlater,y2hecate,mixers,jaqrabbit,logtut,blunkinator,fiuefey,korichi",
+      "userUrl": [
+        "https://www.furaffinity.net/user/xaidezignz/",
+        "https://www.furaffinity.net/user/kygen/",
+        "https://www.furaffinity.net/user/orimew/",
+        "https://www.furaffinity.net/user/kampferwolf/",
+        "https://www.furaffinity.net/user/brushfire/",
+        "https://www.furaffinity.net/user/stormrunner/",
+        "https://www.furaffinity.net/user/jamesalesto/",
+        "https://www.furaffinity.net/user/sciggles/",
+        "https://www.furaffinity.net/user/nowandlater/",
+        "https://www.furaffinity.net/user/y2hecate/",
+        "https://www.furaffinity.net/user/mixers/",
+        "https://www.furaffinity.net/user/jaqrabbit/",
+        "https://www.furaffinity.net/user/logtut/",
+        "https://www.furaffinity.net/user/blunkinator/",
+        "https://www.furaffinity.net/user/fiuefey/",
+        "https://www.furaffinity.net/user/korichi/"
+      ],
+      "userName": [
+        "xaidezignz",
+        "kygen",
+        "orimew",
+        "kampferwolf",
+        "brushfire",
+        "stormrunner",
+        "jamesalesto",
+        "sciggles",
+        "nowandlater",
+        "y2hecate",
+        "mixers",
+        "jaqrabbit",
+        "logtut",
+        "blunkinator",
+        "fiuefey",
+        "korichi"
+      ],
       "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-pride2025.jpg",
       "date": "2025-06-01"
     },
@@ -1091,16 +1125,28 @@
     {
       "file": "2008-10_gunmouth-and-kamicheetah_first-half.jpg",
       "title": "October 2008 Banner",
-      "userUrl": "https://www.furaffinity.net/user/gunmouth,kamicheetah/",
-      "userName": "gunmouth,kamicheetah",
+      "userUrl": [
+        "https://www.furaffinity.net/user/gunmouth/",
+        "https://www.furaffinity.net/user/kamicheetah/"
+      ],
+      "userName": [
+        "gunmouth",
+        "kamicheetah"
+      ],
       "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-10_gunmouth-and-kamicheetah_first-half.jpg",
       "date": "2008-10-01"
     },
     {
       "file": "2008-10_gunmouth-and-kamicheetah_second-half.jpg",
       "title": "October 2008 Banner",
-      "userUrl": "https://www.furaffinity.net/user/gunmouth,kamicheetah/",
-      "userName": "gunmouth,kamicheetah",
+      "userUrl": [
+        "https://www.furaffinity.net/user/gunmouth/",
+        "https://www.furaffinity.net/user/kamicheetah/"
+      ],
+      "userName": [
+        "gunmouth",
+        "kamicheetah"
+      ],
       "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-10_gunmouth-and-kamicheetah_second-half.jpg",
       "date": "2008-10-01"
     },

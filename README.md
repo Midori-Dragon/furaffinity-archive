@@ -5,4 +5,4 @@ Archive of official FurAffinity promotional images collected over time.
 <br>
 
 > [!NOTE]
-> Visit docs here: https://midori-dragon.github.io/furaffinity-archive/
+> Visit archive here: https://midori-dragon.github.io/furaffinity-archive/

@@ -1,4 +1,4 @@
-# FA Archive
+# FurAffinity Archive
 
 Archive of official FurAffinity promotional images collected over time.
 

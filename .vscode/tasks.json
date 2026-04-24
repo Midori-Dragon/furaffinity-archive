@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "docs:archive",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "label": "Build: Docs Archive",
+            "presentation": {
+                "showReuseMessage": false,
+                "clear": true
+            }
+        },
+        {
+            "type": "npm",
+            "script": "docs",
+            "group": "test",
+            "problemMatcher": [],
+            "label": "Run: Docs",
+            "presentation": {
+                "showReuseMessage": false,
+                "clear": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "furaffinity-archive",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "docs": "docsify serve docs -o",
+    "docs:archive": "node build-scripts/generate-archive-metadata.cjs"
+  },
+  "keywords": [
+    "archive",
+    "furry",
+    "enhancement",
+    "features",
+    "quality-of-life",
+    "furaffinity",
+    "furry-fandom"
+  ],
+  "author": "Midori Dragon",
+  "description": "Archive of official FurAffinity promotional images collected over time",
+  "devDependencies": {
+    "exiftool-vendored": "^35.18.0",
+    "docsify-cli": "^4.4.4"
+  }
+}

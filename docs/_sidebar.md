@@ -1,0 +1,8 @@
+- [Home](/)
+  - [Icons](/fa-archive/icons)
+  - [Banners](/fa-archive/banners)
+  - [Stickers](/fa-archive/stickers)
+  - [Posts & Art](/fa-archive/posts_and_art)
+- **Links**
+- [<i class="fa-brands fa-github"></i>⠀Github](https://github.com/Midori-Dragon/furaffinity-archive)
+- [<i class="fa-solid fa-house-user"></i>⠀My Homepage](https://midori-dragon.carrd.co/)

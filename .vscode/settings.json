@@ -1,0 +1,36 @@
+{
+    "js/ts.tsserver.experimental.enableProjectDiagnostics": true,
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.git": true,
+        "**/build": true,
+        "**/.vs": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/Properties": true,
+        "**/packages": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/.git": true,
+        "**/bin": true,
+        "**/obj": true,
+        "**/Properties": true,
+        "**/packages": true
+    },
+    "files.eol": "\n",
+    "markdownlint.config": {
+        "no-inline-html": false,
+        "no-duplicate-heading": false,
+        "no-alt-text": false,
+        "heading-increment": false,
+        "no-bare-urls": false,
+        "no-trailing-punctuation": false,
+        "ul-indent": false,
+        "blanks-around-headings": false,
+        "blanks-around-lists": false,
+        "table-column-style": false,
+        "blanks-around-fences": false,
+        "first-line-heading": false
+    },
+}

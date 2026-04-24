@@ -1,0 +1,1970 @@
+{
+  "banners": [
+    {
+      "file": "fa-banner-spring-delki-20260423.jpg",
+      "title": "April 2026 Banner",
+      "userUrl": "https://www.furaffinity.net/user/delki/",
+      "userName": "delki",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-spring-delki-20260423.jpg",
+      "date": "2026-04-01"
+    },
+    {
+      "file": "fa-banner-spring-wyrmy-20260401.jpg",
+      "title": "April 2026 Banner",
+      "userUrl": "https://www.furaffinity.net/user/wyrmy/",
+      "userName": "wyrmy",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-spring-wyrmy-20260401.jpg",
+      "date": "2026-04-01"
+    },
+    {
+      "file": "fa-banner-winter-creepygun-20260314.jpg",
+      "title": "March 2026 Banner",
+      "userUrl": "https://www.furaffinity.net/user/creepygun/",
+      "userName": "creepygun",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-winter-creepygun-20260314.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "file": "fa-banner-winter-ratcha-20260308.jpg",
+      "title": "March 2026 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ratcha/",
+      "userName": "ratcha",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-winter-ratcha-20260308.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "file": "fa-banner-winter-hackainax-20260214.jpg",
+      "title": "February 2026 Banner",
+      "userUrl": "https://www.furaffinity.net/user/hackainax/",
+      "userName": "hackainax",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-winter-hackainax-20260214.jpg",
+      "date": "2026-02-01"
+    },
+    {
+      "file": "fa-banner-winter-mwahart-20260112.jpg",
+      "title": "January 2026 Banner",
+      "userUrl": "https://www.furaffinity.net/user/mwahart/",
+      "userName": "mwahart",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-winter-mwahart-20260112.jpg",
+      "date": "2026-01-01"
+    },
+    {
+      "file": "fa-banner-fall-nuggetkun-20251202.jpg",
+      "title": "December 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nuggetkun/",
+      "userName": "nuggetkun",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-nuggetkun-20251202.jpg",
+      "date": "2025-12-01"
+    },
+    {
+      "file": "fa-banner-fall-faeseiren-20251128.jpg",
+      "title": "November 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/faeseiren/",
+      "userName": "faeseiren",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-faeseiren-20251128.jpg",
+      "date": "2025-11-01"
+    },
+    {
+      "file": "fa-banner-fall-jamesalesto-20251101.jpg",
+      "title": "November 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jamesalesto/",
+      "userName": "jamesalesto",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-jamesalesto-20251101.jpg",
+      "date": "2025-11-01"
+    },
+    {
+      "file": "fa-banner-fall-ltoo-20251111.jpg",
+      "title": "November 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ltoo/",
+      "userName": "ltoo",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-ltoo-20251111.jpg",
+      "date": "2025-11-01"
+    },
+    {
+      "file": "fa-banner-fall-gokart-20251013.jpg",
+      "title": "October 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/go-kart/",
+      "userName": "go-kart",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-gokart-20251013.jpg",
+      "date": "2025-10-01"
+    },
+    {
+      "file": "fa-banner-fall-zanzagen-20251029.jpg",
+      "title": "October 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/zanzagen/",
+      "userName": "zanzagen",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-zanzagen-20251029.jpg",
+      "date": "2025-10-01"
+    },
+    {
+      "file": "fa-banner-fall-cordi-20250901.jpg",
+      "title": "September 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/cordi/",
+      "userName": "cordi",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-cordi-20250901.jpg",
+      "date": "2025-09-01"
+    },
+    {
+      "file": "fa-banner-fall-samashtommy-20250922.jpg",
+      "title": "September 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/samashtommy/",
+      "userName": "samashtommy",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall-samashtommy-20250922.jpg",
+      "date": "2025-09-01"
+    },
+    {
+      "file": "fa-banner-memorial-takahirosi-20250806.jpg",
+      "title": "August 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/takahirosi/",
+      "userName": "takahirosi",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-memorial-takahirosi-20250806.jpg",
+      "date": "2025-08-01"
+    },
+    {
+      "file": "fa-banner-summer-bluewoman-20250815.jpg",
+      "title": "August 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/bluewoman/",
+      "userName": "bluewoman",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-summer-bluewoman-20250815.jpg",
+      "date": "2025-08-01"
+    },
+    {
+      "file": "fa-banner-summer-corriezodori-20250801.jpg",
+      "title": "August 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/corriezodori/",
+      "userName": "corriezodori",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-summer-corriezodori-20250801.jpg",
+      "date": "2025-08-01"
+    },
+    {
+      "file": "fa-banner-summer-dragonlover814-20250715.jpg",
+      "title": "July 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragonlover814/",
+      "userName": "dragonlover814",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-summer-dragonlover814-20250715.jpg",
+      "date": "2025-07-01"
+    },
+    {
+      "file": "fa-banner-summer-tartii-20250701.jpg",
+      "title": "July 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/tartii/",
+      "userName": "tartii",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-summer-tartii-20250701.jpg",
+      "date": "2025-07-01"
+    },
+    {
+      "file": "fa-banner-pride2025.jpg",
+      "title": "June 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/xaidezignz,kygen,orimew,kampferwolf,brushfire,stormrunner,jamesalesto,sciggles,nowandlater,y2hecate,mixers,jaqrabbit,logtut,blunkinator,fiuefey,korichi/",
+      "userName": "xaidezignz,kygen,orimew,kampferwolf,brushfire,stormrunner,jamesalesto,sciggles,nowandlater,y2hecate,mixers,jaqrabbit,logtut,blunkinator,fiuefey,korichi",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-pride2025.jpg",
+      "date": "2025-06-01"
+    },
+    {
+      "file": "fa-banner-rednef-huion.jpg",
+      "title": "June 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sciggles/",
+      "userName": "sciggles",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-rednef-huion.jpg",
+      "date": "2025-06-01"
+    },
+    {
+      "file": "fa-banner-april-fools.jpg",
+      "title": "April 2025 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jym/",
+      "userName": "jym",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-april-fools.jpg",
+      "date": "2025-04-01"
+    },
+    {
+      "file": "fa-banner-winter.jpg",
+      "title": "December 2022 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lapatte/",
+      "userName": "lapatte",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-winter.jpg",
+      "date": "2022-12-01"
+    },
+    {
+      "file": "fa-banner-halloween.jpg",
+      "title": "October 2022 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lapatte/",
+      "userName": "lapatte",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-halloween.jpg",
+      "date": "2022-10-01"
+    },
+    {
+      "file": "fa-banner-fall.jpg",
+      "title": "September 2022 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lapatte/",
+      "userName": "lapatte",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-fall.jpg",
+      "date": "2022-09-01"
+    },
+    {
+      "file": "fa-banner-summer.jpg",
+      "title": "June 2022 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lapatte/",
+      "userName": "lapatte",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-summer.jpg",
+      "date": "2022-06-01"
+    },
+    {
+      "file": "fa-banner-spring.jpg",
+      "title": "March 2022 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lapatte/",
+      "userName": "lapatte",
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-spring.jpg",
+      "date": "2022-03-01"
+    },
+    {
+      "file": "2017-08_nambroth.jpg",
+      "title": "August 2017 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nambroth/",
+      "userName": "nambroth",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2017-08_nambroth.jpg",
+      "date": "2017-08-01"
+    },
+    {
+      "file": "2016-korichi.jpg",
+      "title": "March 2016 Banner",
+      "userUrl": "https://www.furaffinity.net/user/korichi/",
+      "userName": "korichi",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2016-korichi.jpg",
+      "date": "2016-03-01"
+    },
+    {
+      "file": "fa-banner-general_2021.png",
+      "title": "March 2016 Banner",
+      "userUrl": "https://www.furaffinity.net/user/artdecade/",
+      "userName": "artdecade",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/fa-banner-general_2021.png",
+      "date": "2016-03-01"
+    },
+    {
+      "file": "2015_10_08_lumafall.jpg",
+      "title": "October 2015 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lumafall/",
+      "userName": "lumafall",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2015_10_08_lumafall.jpg",
+      "date": "2015-10-01"
+    },
+    {
+      "file": "fa_beta.png",
+      "title": "July 2015 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jym/",
+      "userName": "jym",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/fa_beta.png",
+      "date": "2015-07-01"
+    },
+    {
+      "file": "fatbunny.jpg",
+      "title": "July 2015 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kium/",
+      "userName": "kium",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/fatbunny.jpg",
+      "date": "2015-07-01"
+    },
+    {
+      "file": "2015_06_nightlinez.png",
+      "title": "June 2015 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nightlinez/",
+      "userName": "nightlinez",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2015_06_nightlinez.png",
+      "date": "2015-06-01"
+    },
+    {
+      "file": "2015_02_applepup.jpg",
+      "title": "February 2015 Banner",
+      "userUrl": "https://www.furaffinity.net/user/applepup/",
+      "userName": "applepup",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2015_02_applepup.jpg",
+      "date": "2015-02-01"
+    },
+    {
+      "file": "2014_09_wintersnowolf.jpg",
+      "title": "September 2014 Banner",
+      "userUrl": "https://www.furaffinity.net/user/wintersnowolf/",
+      "userName": "wintersnowolf",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2014_09_wintersnowolf.jpg",
+      "date": "2014-09-01"
+    },
+    {
+      "file": "2014_06_kaphrin.jpg",
+      "title": "June 2014 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kaphrin/",
+      "userName": "kaphrin",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2014_06_kaphrin.jpg",
+      "date": "2014-06-01"
+    },
+    {
+      "file": "2014_03_anti-dark-heart.jpg",
+      "title": "March 2014 Banner",
+      "userUrl": "https://www.furaffinity.net/user/antidarkheart/",
+      "userName": "antidarkheart",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2014_03_anti-dark-heart.jpg",
+      "date": "2014-03-01"
+    },
+    {
+      "file": "2014_01_verli.png",
+      "title": "January 2014 Banner",
+      "userUrl": "https://www.furaffinity.net/user/verli/",
+      "userName": "verli",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2014_01_verli.png",
+      "date": "2014-01-01"
+    },
+    {
+      "file": "2013_12_thunper.jpg",
+      "title": "December 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/thunper/",
+      "userName": "thunper",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_12_thunper.jpg",
+      "date": "2013-12-01"
+    },
+    {
+      "file": "2013_10_silverclaw1.png",
+      "title": "October 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/silverclaw1/",
+      "userName": "silverclaw1",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_10_silverclaw1.png",
+      "date": "2013-10-01"
+    },
+    {
+      "file": "2013_08_kaiizree.jpg",
+      "title": "August 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kaiizree/",
+      "userName": "kaiizree",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_08_kaiizree.jpg",
+      "date": "2013-08-01"
+    },
+    {
+      "file": "2013_07_lunacatta.jpg",
+      "title": "July 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lunacatta/",
+      "userName": "lunacatta",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_07_lunacatta.jpg",
+      "date": "2013-07-01"
+    },
+    {
+      "file": "2013_06_parchife.jpg",
+      "title": "June 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lividdear/",
+      "userName": "lividdear",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_06_parchife.jpg",
+      "date": "2013-06-01"
+    },
+    {
+      "file": "2013_06b_jazzycat.jpg",
+      "title": "June 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jazzycat/",
+      "userName": "jazzycat",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_06b_jazzycat.jpg",
+      "date": "2013-06-01"
+    },
+    {
+      "file": "2013_02a_.tygerstkuan.jpg",
+      "title": "February 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/tygerstkuan/",
+      "userName": "tygerstkuan",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_02a_.tygerstkuan.jpg",
+      "date": "2013-02-01"
+    },
+    {
+      "file": "2013_02b_cupcakecreature.jpg",
+      "title": "February 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/cupcakecreature/",
+      "userName": "cupcakecreature",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_02b_cupcakecreature.jpg",
+      "date": "2013-02-01"
+    },
+    {
+      "file": "2013_02c_rudragon.jpg",
+      "title": "February 2013 Banner",
+      "userUrl": "https://www.furaffinity.net/user/rudragon/",
+      "userName": "rudragon",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2013_02c_rudragon.jpg",
+      "date": "2013-02-01"
+    },
+    {
+      "file": "2012_12_sciggles.jpg",
+      "title": "December 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sciggles/",
+      "userName": "sciggles",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_12_sciggles.jpg",
+      "date": "2012-12-01"
+    },
+    {
+      "file": "2012_12b_fivel.png",
+      "title": "December 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/fivel/",
+      "userName": "fivel",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_12b_fivel.png",
+      "date": "2012-12-01"
+    },
+    {
+      "file": "2012_10_soulscape.jpg",
+      "title": "October 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/soulscape/",
+      "userName": "soulscape",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_10_soulscape.jpg",
+      "date": "2012-10-01"
+    },
+    {
+      "file": "2012_09_22mg.png",
+      "title": "September 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/22mg/",
+      "userName": "22mg",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_09_22mg.png",
+      "date": "2012-09-01"
+    },
+    {
+      "file": "2012_09_talrion.jpg",
+      "title": "September 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/talrion/",
+      "userName": "talrion",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_09_talrion.jpg",
+      "date": "2012-09-01"
+    },
+    {
+      "file": "2012_08_lumaberry.jpg",
+      "title": "August 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lumaberry/",
+      "userName": "lumaberry",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_08_lumaberry.jpg",
+      "date": "2012-08-01"
+    },
+    {
+      "file": "2012_08_sw_adanabel.jpg",
+      "title": "August 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/runicnature/",
+      "userName": "runicnature",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_08_sw_adanabel.jpg",
+      "date": "2012-08-01"
+    },
+    {
+      "file": "2012_08_sw_megalodon.jpg",
+      "title": "August 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/megalodon/",
+      "userName": "megalodon",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_08_sw_megalodon.jpg",
+      "date": "2012-08-01"
+    },
+    {
+      "file": "fat_bunny_week_2012.jpg",
+      "title": "August 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sheppymomma/",
+      "userName": "sheppymomma",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/fat_bunny_week_2012.jpg",
+      "date": "2012-08-01"
+    },
+    {
+      "file": "2012_07_crisisabort.png",
+      "title": "July 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/crisisabort/",
+      "userName": "crisisabort",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_07_crisisabort.png",
+      "date": "2012-07-01"
+    },
+    {
+      "file": "2012_06_falvie.jpg",
+      "title": "June 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/falvie/",
+      "userName": "falvie",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_06_falvie.jpg",
+      "date": "2012-06-01"
+    },
+    {
+      "file": "2012_05_neko-maya.jpg",
+      "title": "May 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/neotheta/",
+      "userName": "neotheta",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_05_neko-maya.jpg",
+      "date": "2012-05-01"
+    },
+    {
+      "file": "2012_04_songdog.jpg",
+      "title": "April 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/songdog/",
+      "userName": "songdog",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_04_songdog.jpg",
+      "date": "2012-04-01"
+    },
+    {
+      "file": "2012_03_jingx1.jpg",
+      "title": "March 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jingx1/",
+      "userName": "jingx1",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_03_jingx1.jpg",
+      "date": "2012-03-01"
+    },
+    {
+      "file": "2012_03b_verli.png",
+      "title": "March 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/verli/",
+      "userName": "verli",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_03b_verli.png",
+      "date": "2012-03-01"
+    },
+    {
+      "file": "2012_02_leeden.jpg",
+      "title": "February 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/leeden/",
+      "userName": "leeden",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_02_leeden.jpg",
+      "date": "2012-02-01"
+    },
+    {
+      "file": "2012_02b_ska.png",
+      "title": "February 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ska/",
+      "userName": "ska",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_02b_ska.png",
+      "date": "2012-02-01"
+    },
+    {
+      "file": "2012_01_sopa-protest-banner.png",
+      "title": "January 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragoneer/",
+      "userName": "dragoneer",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_01_sopa-protest-banner.png",
+      "date": "2012-01-01"
+    },
+    {
+      "file": "2012_01_spagglemutt.png",
+      "title": "January 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/spaggle/",
+      "userName": "spaggle",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_01_spagglemutt.png",
+      "date": "2012-01-01"
+    },
+    {
+      "file": "2012_01b_danji-isthmus.jpg",
+      "title": "January 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/danji-isthmus/",
+      "userName": "danji-isthmus",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_01b_danji-isthmus.jpg",
+      "date": "2012-01-01"
+    },
+    {
+      "file": "2012_01c_tygerstkuan.png",
+      "title": "January 2012 Banner",
+      "userUrl": "https://www.furaffinity.net/user/tygerstkuan/",
+      "userName": "tygerstkuan",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2012_01c_tygerstkuan.png",
+      "date": "2012-01-01"
+    },
+    {
+      "file": "2011_12a_jazzycat_.jpg",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jazzycat/",
+      "userName": "jazzycat",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12a_jazzycat_.jpg",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_12b_johis_fapieni.jpg",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/johis/",
+      "userName": "johis",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12b_johis_fapieni.jpg",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_12c_ricket.jpg",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/cozycatnip/",
+      "userName": "cozycatnip",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12c_ricket.jpg",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_12d_ifus.jpg",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ifus/",
+      "userName": "ifus",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12d_ifus.jpg",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_12e_ravennoodle.png",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ravennoodle/",
+      "userName": "ravennoodle",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12e_ravennoodle.png",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_12f_briarwood.jpg",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/briarwood/",
+      "userName": "briarwood",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12f_briarwood.jpg",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_12g_vellacraptor.png",
+      "title": "December 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/mochaspar/",
+      "userName": "mochaspar",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_12g_vellacraptor.png",
+      "date": "2011-12-01"
+    },
+    {
+      "file": "2011_11_olympiaxylaige.jpg",
+      "title": "November 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/olympiaxylaige/",
+      "userName": "olympiaxylaige",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_11_olympiaxylaige.jpg",
+      "date": "2011-11-01"
+    },
+    {
+      "file": "2011_10_rarakie.jpg",
+      "title": "October 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/rarakie/",
+      "userName": "rarakie",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_10_rarakie.jpg",
+      "date": "2011-10-01"
+    },
+    {
+      "file": "2011_10b_honeyking.jpg",
+      "title": "October 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/honeyking/",
+      "userName": "honeyking",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_10b_honeyking.jpg",
+      "date": "2011-10-01"
+    },
+    {
+      "file": "2011_09_priestrevan.jpg",
+      "title": "September 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/priestrevan/",
+      "userName": "priestrevan",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_09_priestrevan.jpg",
+      "date": "2011-09-01"
+    },
+    {
+      "file": "2011_09b_dotrook.png",
+      "title": "September 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dotrook/",
+      "userName": "dotrook",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_09b_dotrook.png",
+      "date": "2011-09-01"
+    },
+    {
+      "file": "2011_09c_kittiara.png",
+      "title": "September 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kittiara/",
+      "userName": "kittiara",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_09c_kittiara.png",
+      "date": "2011-09-01"
+    },
+    {
+      "file": "2011_08_katmomma.png",
+      "title": "August 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sheppymomma/",
+      "userName": "sheppymomma",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_08_katmomma.png",
+      "date": "2011-08-01"
+    },
+    {
+      "file": "2011_08b_princessrei.jpg",
+      "title": "August 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/princessrei/",
+      "userName": "princessrei",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_08b_princessrei.jpg",
+      "date": "2011-08-01"
+    },
+    {
+      "file": "2011_07_secoh2000.jpg",
+      "title": "July 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/secoh2000/",
+      "userName": "secoh2000",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_07_secoh2000.jpg",
+      "date": "2011-07-01"
+    },
+    {
+      "file": "2011_07_verli.jpg",
+      "title": "July 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/verli/",
+      "userName": "verli",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_07_verli.jpg",
+      "date": "2011-07-01"
+    },
+    {
+      "file": "2011_6_slickfox.jpg",
+      "title": "June 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/slickfox/",
+      "userName": "slickfox",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_6_slickfox.jpg",
+      "date": "2011-06-01"
+    },
+    {
+      "file": "2011_04a_sciggles.png",
+      "title": "April 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sciggles/",
+      "userName": "sciggles",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_04a_sciggles.png",
+      "date": "2011-04-01"
+    },
+    {
+      "file": "2011_4b_mushymutt.jpg",
+      "title": "April 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/mushymutt/",
+      "userName": "mushymutt",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_4b_mushymutt.jpg",
+      "date": "2011-04-01"
+    },
+    {
+      "file": "2011_4c_prguitarman.gif",
+      "title": "April 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/prguitarman/",
+      "userName": "prguitarman",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_4c_prguitarman.gif",
+      "date": "2011-04-01"
+    },
+    {
+      "file": "2011_03_theramjing.png",
+      "title": "March 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/theramjing/",
+      "userName": "theramjing",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_03_theramjing.png",
+      "date": "2011-03-01"
+    },
+    {
+      "file": "2011_02_slug.gif",
+      "title": "February 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/oddbird/",
+      "userName": "oddbird",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_02_slug.gif",
+      "date": "2011-02-01"
+    },
+    {
+      "file": "2011_02b_portzebie.png",
+      "title": "February 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/portzebie/",
+      "userName": "portzebie",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_02b_portzebie.png",
+      "date": "2011-02-01"
+    },
+    {
+      "file": "2011_01_texascoyote.png",
+      "title": "January 2011 Banner",
+      "userUrl": "https://www.furaffinity.net/user/texascoyote/",
+      "userName": "texascoyote",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2011_01_texascoyote.png",
+      "date": "2011-01-01"
+    },
+    {
+      "file": "2010_12-firefeathers.jpg",
+      "title": "December 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/firefeathers/",
+      "userName": "firefeathers",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_12-firefeathers.jpg",
+      "date": "2010-12-01"
+    },
+    {
+      "file": "2010_12-lupa09.jpg",
+      "title": "December 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lupa09/",
+      "userName": "lupa09",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_12-lupa09.jpg",
+      "date": "2010-12-01"
+    },
+    {
+      "file": "2010_12-silverdeni.jpg",
+      "title": "December 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/silverdeni/",
+      "userName": "silverdeni",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_12-silverdeni.jpg",
+      "date": "2010-12-01"
+    },
+    {
+      "file": "2010_12-touchmybadger.jpg",
+      "title": "December 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/mitti/",
+      "userName": "mitti",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_12-touchmybadger.jpg",
+      "date": "2010-12-01"
+    },
+    {
+      "file": "2010_11-davidbowie.jpg",
+      "title": "November 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sungtongs/",
+      "userName": "sungtongs",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_11-davidbowie.jpg",
+      "date": "2010-11-01"
+    },
+    {
+      "file": "2010_10-aurora.jpg",
+      "title": "October 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/aurora/",
+      "userName": "aurora",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_10-aurora.jpg",
+      "date": "2010-10-01"
+    },
+    {
+      "file": "2010_10b-ke.jpg",
+      "title": "October 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ke/",
+      "userName": "ke",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010_10b-ke.jpg",
+      "date": "2010-10-01"
+    },
+    {
+      "file": "2010-09-sixthleafclover.jpg",
+      "title": "September 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sixthleafclover/",
+      "userName": "sixthleafclover",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-09-sixthleafclover.jpg",
+      "date": "2010-09-01"
+    },
+    {
+      "file": "2010-08-fablefire.jpg",
+      "title": "August 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/fablefire/",
+      "userName": "fablefire",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-08-fablefire.jpg",
+      "date": "2010-08-01"
+    },
+    {
+      "file": "2010-07-azelyn.jpg",
+      "title": "July 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/azelyn/",
+      "userName": "azelyn",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-07-azelyn.jpg",
+      "date": "2010-07-01"
+    },
+    {
+      "file": "2010-07b-katmomma.jpg",
+      "title": "July 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sheppymomma/",
+      "userName": "sheppymomma",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-07b-katmomma.jpg",
+      "date": "2010-07-01"
+    },
+    {
+      "file": "2010-06-yoka_neko.jpg",
+      "title": "June 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/yokaneko/",
+      "userName": "yokaneko",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-06-yoka_neko.jpg",
+      "date": "2010-06-01"
+    },
+    {
+      "file": "2010-05-esartist.jpg",
+      "title": "May 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/esartist/",
+      "userName": "esartist",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-05-esartist.jpg",
+      "date": "2010-05-01"
+    },
+    {
+      "file": "2010-04-spunky.jpg",
+      "title": "April 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/spunky/",
+      "userName": "spunky",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-04-spunky.jpg",
+      "date": "2010-04-01"
+    },
+    {
+      "file": "2010-03-nylak.png",
+      "title": "March 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nylak/",
+      "userName": "nylak",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-03-nylak.png",
+      "date": "2010-03-01"
+    },
+    {
+      "file": "2010-02-rika.jpg",
+      "title": "February 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/rika/",
+      "userName": "rika",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-02-rika.jpg",
+      "date": "2010-02-01"
+    },
+    {
+      "file": "2010-02b-loupgarou.jpg",
+      "title": "February 2010 Banner",
+      "userUrl": "https://www.furaffinity.net/user/loupgarou/",
+      "userName": "loupgarou",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2010-02b-loupgarou.jpg",
+      "date": "2010-02-01"
+    },
+    {
+      "file": "2009-12-forceswerewolf.jpg",
+      "title": "December 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/forceswerwolf/",
+      "userName": "forceswerwolf",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-12-forceswerewolf.jpg",
+      "date": "2009-12-01"
+    },
+    {
+      "file": "2009-12b-jill0r.jpg",
+      "title": "December 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jill0r/",
+      "userName": "jill0r",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-12b-jill0r.jpg",
+      "date": "2009-12-01"
+    },
+    {
+      "file": "2009-12c-jill0r.jpg",
+      "title": "December 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/jill0r/",
+      "userName": "jill0r",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-12c-jill0r.jpg",
+      "date": "2009-12-01"
+    },
+    {
+      "file": "2009-11_cyocyo_thanksgiving.gif",
+      "title": "November 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/cyocyo/",
+      "userName": "cyocyo",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-11_cyocyo_thanksgiving.gif",
+      "date": "2009-11-01"
+    },
+    {
+      "file": "2009-11-ahkahna.jpg",
+      "title": "November 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ahkahna/",
+      "userName": "ahkahna",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-11-ahkahna.jpg",
+      "date": "2009-11-01"
+    },
+    {
+      "file": "2009-11b-portzebie.jpg",
+      "title": "November 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/portzebie/",
+      "userName": "portzebie",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-11b-portzebie.jpg",
+      "date": "2009-11-01"
+    },
+    {
+      "file": "2009-10_leelee_halloween-special.jpg",
+      "title": "October 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/leelee/",
+      "userName": "leelee",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-10_leelee_halloween-special.jpg",
+      "date": "2009-10-01"
+    },
+    {
+      "file": "2009-10-lizbeth.jpg",
+      "title": "October 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/lizbeth/",
+      "userName": "lizbeth",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-10-lizbeth.jpg",
+      "date": "2009-10-01"
+    },
+    {
+      "file": "2009-09-gab.jpg",
+      "title": "September 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/gab/",
+      "userName": "gab",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-09-gab.jpg",
+      "date": "2009-09-01"
+    },
+    {
+      "file": "2009-09b-VoondahbaYosh.jpg",
+      "title": "September 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/voondahbayosh/",
+      "userName": "voondahbayosh",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-09b-VoondahbaYosh.jpg",
+      "date": "2009-09-01"
+    },
+    {
+      "file": "2009-08-macroceli.jpg",
+      "title": "August 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/macroceli/",
+      "userName": "macroceli",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-08-macroceli.jpg",
+      "date": "2009-08-01"
+    },
+    {
+      "file": "2009-07_keovi.jpg",
+      "title": "July 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/keovi/",
+      "userName": "keovi",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-07_keovi.jpg",
+      "date": "2009-07-01"
+    },
+    {
+      "file": "2009-06_vantid.jpg",
+      "title": "June 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/vantid/",
+      "userName": "vantid",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-06_vantid.jpg",
+      "date": "2009-06-01"
+    },
+    {
+      "file": "2009-05_kalamu.jpg",
+      "title": "May 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kalamu/",
+      "userName": "kalamu",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-05_kalamu.jpg",
+      "date": "2009-05-01"
+    },
+    {
+      "file": "2009-05_nek0gami_towel-day.jpg",
+      "title": "May 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nek0gami/",
+      "userName": "nek0gami",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-05_nek0gami_towel-day.jpg",
+      "date": "2009-05-01"
+    },
+    {
+      "file": "2009-04_assbutt_server-is-down-aprilfools.jpg",
+      "title": "April 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/assbutt/",
+      "userName": "assbutt",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-04_assbutt_server-is-down-aprilfools.jpg",
+      "date": "2009-04-01"
+    },
+    {
+      "file": "2009-04_larathen.jpg",
+      "title": "April 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/larathen/",
+      "userName": "larathen",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-04_larathen.jpg",
+      "date": "2009-04-01"
+    },
+    {
+      "file": "2009-03_introducing_emy.jpg",
+      "title": "March 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/introducingemy/",
+      "userName": "introducingemy",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-03_introducing_emy.jpg",
+      "date": "2009-03-01"
+    },
+    {
+      "file": "2009-02_blotch_2daybanner-superbowl.jpg",
+      "title": "February 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/blotch/",
+      "userName": "blotch",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-02_blotch_2daybanner-superbowl.jpg",
+      "date": "2009-02-01"
+    },
+    {
+      "file": "2009-02_negger.jpg",
+      "title": "February 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/negger/",
+      "userName": "negger",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-02_negger.jpg",
+      "date": "2009-02-01"
+    },
+    {
+      "file": "2009-01_rotarr.png",
+      "title": "January 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/rotarr/",
+      "userName": "rotarr",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-01_rotarr.png",
+      "date": "2009-01-01"
+    },
+    {
+      "file": "2009-01-katmomma.jpg",
+      "title": "January 2009 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sheppymomma/",
+      "userName": "sheppymomma",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2009-01-katmomma.jpg",
+      "date": "2009-01-01"
+    },
+    {
+      "file": "2008-12_bo-gilliam.jpg",
+      "title": "December 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/bo-gilliam/",
+      "userName": "bo-gilliam",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-12_bo-gilliam.jpg",
+      "date": "2008-12-01"
+    },
+    {
+      "file": "2008-11_danielkay_thanksgiving.jpg",
+      "title": "November 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/danielkay/",
+      "userName": "danielkay",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-11_danielkay_thanksgiving.jpg",
+      "date": "2008-11-01"
+    },
+    {
+      "file": "2008-11_sushikitten.jpg",
+      "title": "November 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sushikitten/",
+      "userName": "sushikitten",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-11_sushikitten.jpg",
+      "date": "2008-11-01"
+    },
+    {
+      "file": "2008-10_gunmouth-and-kamicheetah_first-half.jpg",
+      "title": "October 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/gunmouth,kamicheetah/",
+      "userName": "gunmouth,kamicheetah",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-10_gunmouth-and-kamicheetah_first-half.jpg",
+      "date": "2008-10-01"
+    },
+    {
+      "file": "2008-10_gunmouth-and-kamicheetah_second-half.jpg",
+      "title": "October 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/gunmouth,kamicheetah/",
+      "userName": "gunmouth,kamicheetah",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-10_gunmouth-and-kamicheetah_second-half.jpg",
+      "date": "2008-10-01"
+    },
+    {
+      "file": "2008-09_betsy.jpg",
+      "title": "September 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/betsy/",
+      "userName": "betsy",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-09_betsy.jpg",
+      "date": "2008-09-01"
+    },
+    {
+      "file": "2008-08_dragoneer_lolcatbannarz-first.jpg",
+      "title": "August 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragoneer/",
+      "userName": "dragoneer",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-08_dragoneer_lolcatbannarz-first.jpg",
+      "date": "2008-08-01"
+    },
+    {
+      "file": "2008-08_sapphire_lolcatbannarz-second.jpg",
+      "title": "August 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sapphire/",
+      "userName": "sapphire",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-08_sapphire_lolcatbannarz-second.jpg",
+      "date": "2008-08-01"
+    },
+    {
+      "file": "2008-07_thorn.jpg",
+      "title": "July 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/thorn/",
+      "userName": "thorn",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-07_thorn.jpg",
+      "date": "2008-07-01"
+    },
+    {
+      "file": "2008-06_blotch.jpg",
+      "title": "June 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/blotch/",
+      "userName": "blotch",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-06_blotch.jpg",
+      "date": "2008-06-01"
+    },
+    {
+      "file": "2008-05_ahkahna.jpg",
+      "title": "May 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ahkahna/",
+      "userName": "ahkahna",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-05_ahkahna.jpg",
+      "date": "2008-05-01"
+    },
+    {
+      "file": "2008-04_ladyfoxglove_aprilfools.gif",
+      "title": "April 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ladyfoxglove/",
+      "userName": "ladyfoxglove",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-04_ladyfoxglove_aprilfools.gif",
+      "date": "2008-04-01"
+    },
+    {
+      "file": "2008-04_pave_dark.jpg",
+      "title": "April 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/pave/",
+      "userName": "pave",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-04_pave_dark.jpg",
+      "date": "2008-04-01"
+    },
+    {
+      "file": "2008-04_pave_light.jpg",
+      "title": "April 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/pave/",
+      "userName": "pave",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-04_pave_light.jpg",
+      "date": "2008-04-01"
+    },
+    {
+      "file": "2008-03_nilin.jpg",
+      "title": "March 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nilin/",
+      "userName": "nilin",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-03_nilin.jpg",
+      "date": "2008-03-01"
+    },
+    {
+      "file": "2008-02_bloodhound.jpg",
+      "title": "February 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/bloodhound/",
+      "userName": "bloodhound",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-02_bloodhound.jpg",
+      "date": "2008-02-01"
+    },
+    {
+      "file": "2008-01_bo-gilliam_newyear-light.jpg",
+      "title": "January 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/bo-gilliam/",
+      "userName": "bo-gilliam",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-01_bo-gilliam_newyear-light.jpg",
+      "date": "2008-01-01"
+    },
+    {
+      "file": "2008-01_ritts.jpg",
+      "title": "January 2008 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ritts/",
+      "userName": "ritts",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2008-01_ritts.jpg",
+      "date": "2008-01-01"
+    },
+    {
+      "file": "2007-12_angyl_forumbanner_16thday.jpg",
+      "title": "December 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/angyl/",
+      "userName": "angyl",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-12_angyl_forumbanner_16thday.jpg",
+      "date": "2007-12-01"
+    },
+    {
+      "file": "2007-12_beerhorse_second-19thday.jpg",
+      "title": "December 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/beerhorse/",
+      "userName": "beerhorse",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-12_beerhorse_second-19thday.jpg",
+      "date": "2007-12-01"
+    },
+    {
+      "file": "2007-12_sukebepanda_first.png",
+      "title": "December 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/sukebepanda/",
+      "userName": "sukebepanda",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-12_sukebepanda_first.png",
+      "date": "2007-12-01"
+    },
+    {
+      "file": "2007-11_seskata.jpg",
+      "title": "November 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/seskata/",
+      "userName": "seskata",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-11_seskata.jpg",
+      "date": "2007-11-01"
+    },
+    {
+      "file": "2007-10_reaperfox.jpg",
+      "title": "October 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/reaperfox/",
+      "userName": "reaperfox",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-10_reaperfox.jpg",
+      "date": "2007-10-01"
+    },
+    {
+      "file": "2007-10_ultraviolet_halloween-28thday.png",
+      "title": "October 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ultraviolet/",
+      "userName": "ultraviolet",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-10_ultraviolet_halloween-28thday.png",
+      "date": "2007-10-01"
+    },
+    {
+      "file": "2007-09_likeshine.png",
+      "title": "September 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/likeshine/",
+      "userName": "likeshine",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-09_likeshine.png",
+      "date": "2007-09-01"
+    },
+    {
+      "file": "2007-08_kamicheetah.png",
+      "title": "August 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kamicheetah/",
+      "userName": "kamicheetah",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-08_kamicheetah.png",
+      "date": "2007-08-01"
+    },
+    {
+      "file": "2007-07_clawed_dark.png",
+      "title": "July 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/clawed/",
+      "userName": "clawed",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-07_clawed_dark.png",
+      "date": "2007-07-01"
+    },
+    {
+      "file": "2007-07_leelee_light.png",
+      "title": "July 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/leelee/",
+      "userName": "leelee",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-07_leelee_light.png",
+      "date": "2007-07-01"
+    },
+    {
+      "file": "2007-07_leelee_light-sandwitch-version.jpg",
+      "title": "July 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/leelee/",
+      "userName": "leelee",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-07_leelee_light-sandwitch-version.jpg",
+      "date": "2007-07-01"
+    },
+    {
+      "file": "2007-07_taleron_sporebat-30thday.png",
+      "title": "July 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/taleron/",
+      "userName": "taleron",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-07_taleron_sporebat-30thday.png",
+      "date": "2007-07-01"
+    },
+    {
+      "file": "2007-06_spiritcreations.png",
+      "title": "June 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/animal-crackers/",
+      "userName": "animal-crackers",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-06_spiritcreations.png",
+      "date": "2007-06-01"
+    },
+    {
+      "file": "2007-05_yifferfox.jpg",
+      "title": "May 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/badgerben/",
+      "userName": "badgerben",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-05_yifferfox.jpg",
+      "date": "2007-05-01"
+    },
+    {
+      "file": "2007-04_dragoneer_aprilfools_dark.jpg",
+      "title": "April 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragoneer/",
+      "userName": "dragoneer",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-04_dragoneer_aprilfools_dark.jpg",
+      "date": "2007-04-01"
+    },
+    {
+      "file": "2007-04_foxfeather.jpg",
+      "title": "April 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/foxfeather/",
+      "userName": "foxfeather",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-04_foxfeather.jpg",
+      "date": "2007-04-01"
+    },
+    {
+      "file": "2007-03_blotch.jpg",
+      "title": "March 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/blotch/",
+      "userName": "blotch",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-03_blotch.jpg",
+      "date": "2007-03-01"
+    },
+    {
+      "file": "2007-02_pinkuh.jpg",
+      "title": "February 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/pinkuh/",
+      "userName": "pinkuh",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-02_pinkuh.jpg",
+      "date": "2007-02-01"
+    },
+    {
+      "file": "2007-01_cesarin.jpg",
+      "title": "January 2007 Banner",
+      "userUrl": "https://www.furaffinity.net/user/thewhitedragon/",
+      "userName": "thewhitedragon",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2007-01_cesarin.jpg",
+      "date": "2007-01-01"
+    },
+    {
+      "file": "2006-12_keto.jpg",
+      "title": "December 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/keto/",
+      "userName": "keto",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-12_keto.jpg",
+      "date": "2006-12-01"
+    },
+    {
+      "file": "2006-11_kadath062.jpg",
+      "title": "November 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/kadath/",
+      "userName": "kadath",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-11_kadath062.jpg",
+      "date": "2006-11-01"
+    },
+    {
+      "file": "2006-10_dragoneer.jpg",
+      "title": "October 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragoneer/",
+      "userName": "dragoneer",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-10_dragoneer.jpg",
+      "date": "2006-10-01"
+    },
+    {
+      "file": "2006-10_dragoneer_nacho-11thday.jpg",
+      "title": "October 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragoneer/",
+      "userName": "dragoneer",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-10_dragoneer_nacho-11thday.jpg",
+      "date": "2006-10-01"
+    },
+    {
+      "file": "2006-10_ivybeth_halloween.jpg",
+      "title": "October 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/ivybeth/",
+      "userName": "ivybeth",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-10_ivybeth_halloween.jpg",
+      "date": "2006-10-01"
+    },
+    {
+      "file": "2006-09_moonstalker.jpg",
+      "title": "September 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/moonstalker/",
+      "userName": "moonstalker",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-09_moonstalker.jpg",
+      "date": "2006-09-01"
+    },
+    {
+      "file": "2006-08_solidasp.jpg",
+      "title": "August 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/solidasp/",
+      "userName": "solidasp",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-08_solidasp.jpg",
+      "date": "2006-08-01"
+    },
+    {
+      "file": "2006-07_nevarraven.jpg",
+      "title": "July 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nevarraven/",
+      "userName": "nevarraven",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-07_nevarraven.jpg",
+      "date": "2006-07-01"
+    },
+    {
+      "file": "2006-04_dragoneer_aprilfools.jpg",
+      "title": "April 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/dragoneer/",
+      "userName": "dragoneer",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-04_dragoneer_aprilfools.jpg",
+      "date": "2006-04-01"
+    },
+    {
+      "file": "2006-04_nevarraven.jpg",
+      "title": "April 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/nevarraven/",
+      "userName": "nevarraven",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-04_nevarraven.jpg",
+      "date": "2006-04-01"
+    },
+    {
+      "file": "2006-02_mutley.jpg",
+      "title": "February 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/mutley/",
+      "userName": "mutley",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-02_mutley.jpg",
+      "date": "2006-02-01"
+    },
+    {
+      "file": "2006-01_mutley.jpg",
+      "title": "January 2006 Banner",
+      "userUrl": "https://www.furaffinity.net/user/mutley/",
+      "userName": "mutley",
+      "directUrl": "https://d.furaffinity.net/media/banners/legacy/2006-01_mutley.jpg",
+      "date": "2006-01-01"
+    }
+  ],
+  "icons": [
+    {
+      "file": "fa_logo.svg"
+    },
+    {
+      "file": "fa_logo_axexual.svg"
+    },
+    {
+      "file": "fa_logo_bisexual.svg"
+    },
+    {
+      "file": "fa_logo_black.svg"
+    },
+    {
+      "file": "fa_logo_gay.svg"
+    },
+    {
+      "file": "fa_logo_genderfluid.svg"
+    },
+    {
+      "file": "fa_logo_inverse.svg"
+    },
+    {
+      "file": "fa_logo_lesbian.svg"
+    },
+    {
+      "file": "fa_logo_nonbinary.svg"
+    },
+    {
+      "file": "fa_logo_orange.svg"
+    },
+    {
+      "file": "fa_logo_pansexual.svg"
+    },
+    {
+      "file": "fa_logo_transgender.svg"
+    },
+    {
+      "file": "fa_logo_ukraine.svg"
+    },
+    {
+      "file": "fa_paw.svg"
+    }
+  ],
+  "icons-originals": [
+    {
+      "file": "fa_logo_ukraine.jpg",
+      "title": "FA Logo Ukraine",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1496851736773939206",
+      "directUrl": "https://pbs.twimg.com/media/FMXitm6WQAUxIwW?format=jpg&name=4096x4096",
+      "date": "2022-02-24"
+    },
+    {
+      "file": "fa_logo.webp",
+      "title": "FA Logo",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi2grxci2h",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreicldflhiyka6jkfkwho6bsxhuuwq7gu5kti3j5af7jyby4ydumu7a",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_axexual.webp",
+      "title": "FA Logo Axexual",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi2grxci2h",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreibpuiclsodvr4lbqiaxfqjnxm3e5ukgdo63wtvizeorny5rgad62a",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_axexual_tsmall.png",
+      "title": "FA Logo Axexual",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427527282675717",
+      "directUrl": "https://pbs.twimg.com/media/E2vDtXTXwAUNK50?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_bisexual.webp",
+      "title": "FA Logo Bisexual",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi4pwubs25",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreie7pnrd34xw3iqte7clfpsbw7pefzzlicrm4ggxolmnddj24l5msa",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_bisexual_tsmall.png",
+      "title": "FA Logo Bisexual",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427527282675717",
+      "directUrl": "https://pbs.twimg.com/media/E2vDtXnX0AEkKwl?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_gay.webp",
+      "title": "FA Logo Gay",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://shop.furaffinity.net/products/rainbow-splat-logo-vinyl-sticker",
+      "directUrl": "https://shop.furaffinity.net/cdn/shop/products/rainbow-and-pride-splat-logo-vinyl-sticker-483884_1024x1024@2x.jpg?v=1700874437",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_genderfluid.webp",
+      "title": "FA Logo Genderfluid",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi4pwubs25",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreigcde2vzewtznyd64n5nki6pesswznzpyd5xsuwevf3uoyesc623q",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_lesbian.webp",
+      "title": "FA Logo Lesbian",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi4pwubs25",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreiheubq3lilqewwmzt265rbbrseequayjw7ni3hn6t7q3kmxn2d6ky",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_lesbian_tsmall.png",
+      "title": "FA Logo Lesbian",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427527282675717",
+      "directUrl": "https://pbs.twimg.com/media/E2vDtYfWYAUTo5o?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_nonbinary.webp",
+      "title": "FA Logo Nonbinary",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi4pwubs25",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreihz6lv4pl4zyslwzwsjipjb2wgzyzywwjhsgbvp2w7bxji6hlzbb4",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_nonbinary_tsmall.png",
+      "title": "FA Logo Nonbinary",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427527282675717",
+      "directUrl": "https://pbs.twimg.com/media/E2vDwoeWEAMOfM-?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_orange_tsmall.png",
+      "title": "FA Logo Orange",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427530000633857",
+      "directUrl": "https://pbs.twimg.com/media/E2vDzNuXoAEQvdk?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_pansexual.webp",
+      "title": "FA Logo Pansexual",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi2grxci2h",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreictk4ehotscr6lunhszmwzka5mzudygabulyg6vcetlrwl42g7kpu",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_pansexual_tsmall.png",
+      "title": "FA Logo Pansexual",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427530000633857",
+      "directUrl": "https://pbs.twimg.com/media/E2vDzMUXMAEZvJz?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_transgender.webp",
+      "title": "FA Logo Transgender",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3l6yi2grxci2h",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreiecevn7qwctnypiwsaggailxik2gkdoimndhdffoxb3kyl7ig2iee",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_transgender_tsmall.png",
+      "title": "FA Logo Transgender",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427530000633857",
+      "directUrl": "https://pbs.twimg.com/media/E2vDzNSXIAM593G?format=png&name=small",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fa_logo_tsmall.png",
+      "title": "FA Logo",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1399427530000633857",
+      "directUrl": "https://pbs.twimg.com/media/E2vDzMyX0AU4lAZ?format=png&name=small",
+      "date": "2021-05-31"
+    }
+  ],
+  "posts_and_art": [
+    {
+      "file": "this_is_fine.webp",
+      "title": "This is fine",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3mhqzd6ecn22w",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreigonxbmjs537h7htvvxvcqnvhn7dwktaeoi5iyudhg4vge3dyi3xe",
+      "date": "2026-03-23"
+    },
+    {
+      "file": "halloween_2025.webp",
+      "title": "Halloween 2025",
+      "userUrl": "https://www.furaffinity.net/user/ashwolves5",
+      "userName": "AshWolves5 & ChkrbrdPrincess",
+      "postUrl": "https://x.com/FurAffinity/status/1984414225104580672",
+      "directUrl": "https://pbs.twimg.com/media/G4oOOMLXEAAvkdX?format=jpg&name=large",
+      "date": "2025-11-01"
+    },
+    {
+      "file": "defusing_bomb.webp",
+      "title": "FA will return shortly!",
+      "userUrl": "https://bsky.app/profile/furaffinity.net",
+      "userName": "Furaffinity",
+      "postUrl": "https://bsky.app/profile/furaffinity.net/post/3ly45dfrgls2o",
+      "directUrl": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:7t45d75crvuzogybi3axxafs/bafkreiat5ikiydgmx2sozv42y4bqn4byfnr55odkb5lhyry2wmakctloqu",
+      "date": "2025-09-05"
+    },
+    {
+      "file": "defusing_bomb_w.jpg",
+      "title": "FA will return shortly!",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1964011443805638905",
+      "directUrl": "https://pbs.twimg.com/media/G0GRoRqXoAAfj0K?format=jpg&name=4096x4096",
+      "date": "2025-09-05"
+    },
+    {
+      "file": "did_u_miss_me.webp",
+      "title": "Did you Miss me?",
+      "userUrl": "https://www.furaffinity.net/user/kody-the-fox/",
+      "userName": "Kody-the-Fox",
+      "postUrl": "https://x.com/FurAffinity/status/1919801533786460411",
+      "directUrl": "https://pbs.twimg.com/media/GqSBTJmWEAAXDzx?format=jpg&name=medium",
+      "date": "2025-05-06"
+    },
+    {
+      "file": "fa_offline.jpg",
+      "title": "Still Down",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1847132442865414406",
+      "directUrl": "https://pbs.twimg.com/media/GaJVK0YXwAAkZ_h?format=jpg&name=medium",
+      "date": "2024-10-18"
+    },
+    {
+      "file": "dragoneer_birthday_2024.webp",
+      "title": "Dragoneer Birthday 2024",
+      "userUrl": "https://www.furaffinity.net/user/chicken-scratch/",
+      "userName": "DragonPatches",
+      "postUrl": "https://www.furaffinity.net/view/57769742/",
+      "directUrl": "https://d.furaffinity.net/art/chicken-scratch/1723763517/1723763302.chicken-scratch_1000023388.png",
+      "date": "2024-08-16"
+    },
+    {
+      "file": "fender_rednef_pride.jpg",
+      "title": "Show your pride!",
+      "userUrl": "https://www.furaffinity.net/user/kygen/",
+      "userName": "Kygen",
+      "postUrl": "https://x.com/FurAffinity/status/1399427523767902208",
+      "directUrl": "https://pbs.twimg.com/media/E2vDaQ_X0AIgIt4?format=jpg&name=large",
+      "date": "2021-05-31"
+    },
+    {
+      "file": "fender_dj.jpg",
+      "title": "FA Music Monday",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1311004904064987137",
+      "directUrl": "https://pbs.twimg.com/media/EjGf3YRXgAAAoIC?format=jpg&name=large",
+      "date": "2020-09-29"
+    },
+    {
+      "file": "fa_unearthed_2019.png",
+      "title": "FA Unearthed 2019",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1162153682642898944",
+      "directUrl": "https://pbs.twimg.com/media/ECDMnRKWsAEB8FC?format=png&name=900x900",
+      "date": "2019-08-16"
+    },
+    {
+      "file": "fa_united_2018_3.jpg",
+      "title": "FA United 2018",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1009472482003341312",
+      "directUrl": "https://pbs.twimg.com/media/DgJcoV9W4AA-0HG?format=jpg&name=small",
+      "date": "2018-06-20"
+    },
+    {
+      "file": "fa_united_2018_2.jpg",
+      "title": "FA United 2018",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/1003762194281050112",
+      "directUrl": "https://pbs.twimg.com/media/De4UVFeWAAEIDuT?format=jpg&name=small",
+      "date": "2018-06-05"
+    },
+    {
+      "file": "fa_united_2018.jpg",
+      "title": "FA United 2018",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/954527749150052352",
+      "directUrl": "https://pbs.twimg.com/media/DT8pfklWkAE8pfK?format=jpg&name=small",
+      "date": "2018-01-20"
+    },
+    {
+      "file": "kaiju_fender.jpg",
+      "title": "Ferroxan Charger (Category IV)",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/870055648431669248",
+      "directUrl": "https://pbs.twimg.com/media/DBMOPtLXgAAttkH?format=jpg&name=4096x4096",
+      "date": "2017-06-01"
+    },
+    {
+      "file": "kaiju_rednef.png",
+      "title": "Rednef, the Kaiju Queen (Category IV)",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/870055921686376448",
+      "directUrl": "https://pbs.twimg.com/media/DBMPMwkWsAEEGhQ?format=png&name=large",
+      "date": "2017-06-01"
+    },
+    {
+      "file": "fa_united_2017.png",
+      "title": "FA United 2017",
+      "userUrl": "https://www.furaffinity.net/user/fender/",
+      "userName": "Fender",
+      "postUrl": "https://www.furaffinity.net/view/23636984/",
+      "directUrl": "https://d.furaffinity.net/art/fender/1495754570/1495754570.fender_twitter-header.png",
+      "date": "2017-05-26"
+    },
+    {
+      "file": "fa_united_2017_2.jpg",
+      "title": "FA United 2017",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/867446441073160192",
+      "directUrl": "https://pbs.twimg.com/media/DAnJP7hWsAEf_CU?format=jpg&name=900x900",
+      "date": "2017-05-24"
+    },
+    {
+      "file": "fau_6_3.jpg",
+      "title": "Science. Making a Better \"You\".",
+      "userUrl": "https://www.furaffinity.net/user/strype",
+      "userName": "Strype",
+      "postUrl": "https://www.furaffinity.net/view/11157906/",
+      "directUrl": "https://d.furaffinity.net/art/fender/1374547842/1374547842.fender_strype_print.jpg",
+      "date": "2013-07-23"
+    },
+    {
+      "file": "fau_6_2.jpg",
+      "title": "We're Doing Science!",
+      "userUrl": "https://www.furaffinity.net/user/kyma",
+      "userName": "Kyma",
+      "postUrl": "https://www.furaffinity.net/view/10796676/",
+      "directUrl": "https://d.furaffinity.net/art/fender/1370725527/1370725527.fender_kyma_fau.jpg",
+      "date": "2013-06-08"
+    },
+    {
+      "file": "fau_6.jpg",
+      "title": "Applied Sciences Units 01 and 02",
+      "userUrl": "https://www.furaffinity.net/user/kiryu",
+      "userName": "Kiryu",
+      "postUrl": "https://www.furaffinity.net/view/9719932/",
+      "directUrl": "https://d.furaffinity.net/art/fender/1358541618/1358541618.fender_kiryu_promoart.jpg",
+      "date": "2013-01-18"
+    },
+    {
+      "file": "fender_sheet_new.png",
+      "title": "Fender (Character Sheet)",
+      "userUrl": "https://www.furaffinity.net/user/jailbird",
+      "userName": "Jailbird",
+      "postUrl": "https://www.furaffinity.net/view/4483888/",
+      "directUrl": "https://d.furaffinity.net/art/fender/1284661300/1284661300.fender_fender.png",
+      "date": "2010-09-16"
+    },
+    {
+      "file": "fa_terror.jpg",
+      "title": "Epic Five Year Post of Maximum Relaxation (and Carnage)",
+      "userUrl": "https://www.furaffinity.net/user/brelo",
+      "userName": "brelo",
+      "postUrl": "https://www.furaffinity.net/view/3277777/",
+      "directUrl": "https://d.furaffinity.net/art/fender/1263612598/1263612598.fender_fa_five_years_by_brelo.jpg",
+      "date": "2010-01-16"
+    },
+    {
+      "file": "fa_united_2007.jpg",
+      "title": "FA United 2007",
+      "userUrl": "https://www.furaffinity.net/user/blotch/",
+      "userName": "Blotch",
+      "postUrl": "https://www.furaffinity.net/view/616525/",
+      "directUrl": "https://d.furaffinity.net/art/blotch/1182408542/1182408542.blotch_fenderbadge.jpg",
+      "date": "2007-06-21"
+    },
+    {
+      "file": "fender_sheet_old.jpg",
+      "title": "Fender!",
+      "userUrl": "https://www.furaffinity.net/user/blotch/",
+      "userName": "Blotch",
+      "postUrl": "https://www.furaffinity.net/view/592685/",
+      "directUrl": "https://d.furaffinity.net/art/blotch/1181352775/1181352775.blotch_fenders1.jpg",
+      "date": "2007-06-09"
+    }
+  ],
+  "stickers": [
+    {
+      "file": "dragoneer-memorial-infinity-enamel-pin.svg"
+    },
+    {
+      "file": "fa_est_2005.svg"
+    },
+    {
+      "file": "fender_sticker_2023.svg"
+    },
+    {
+      "file": "furrified_icon_enamel_pin_blue.svg"
+    },
+    {
+      "file": "furrified_icon_enamel_pin_blue_clean.svg"
+    },
+    {
+      "file": "furrified_icon_enamel_pin_gold.svg"
+    },
+    {
+      "file": "furrified_icon_enamel_pin_gold_clean.svg"
+    },
+    {
+      "file": "orange_splat_logo_enamel_pin.svg"
+    },
+    {
+      "file": "rednef_sticker_2023.svg"
+    }
+  ],
+  "stickers-originals": [
+    {
+      "file": "dragoneer-memorial-infinity-enamel-pin.webp",
+      "title": "Memorial Dragoneer Infinity Enamel Pin",
+      "userUrl": "https://www.furaffinity.net/user/sciggles",
+      "userName": "Sciggles",
+      "postUrl": "https://shop.furaffinity.net/products/memorial-dragoneer-infinity-enamel-pin-by-tartii",
+      "directUrl": "https://shop.furaffinity.net/cdn/shop/files/memorial-dragoneer-infinity-enamel-pin-by-tartii-821979_1024x1024@2x.jpg?v=1724662426",
+      "date": "2025-02-04"
+    },
+    {
+      "file": "fender_rednef_2023_together.webp",
+      "title": "Community Star Stickers",
+      "userUrl": "https://shop.furaffinity.net/products/community-star-stickers",
+      "userName": "Furaffinity Shop",
+      "postUrl": "https://x.com/FurAffinity/status/1728268920958951689",
+      "directUrl": "https://shop.furaffinity.net/cdn/shop/files/Fenderrednef2023together_42b41eb1-5a58-4749-afc0-465ff75f88b9_1024x1024@2x.png?v=1741982448",
+      "date": "2023-11-25"
+    },
+    {
+      "file": "furrified_icon_enamel_pin_blue.webp",
+      "title": "Furrified Icon Enamel Pin",
+      "userUrl": "https://shop.furaffinity.net/products/furrified-icon-enamel-pin",
+      "userName": "Furaffinity Shop",
+      "postUrl": "https://x.com/FurAffinity/status/1596382592361799681",
+      "directUrl": "https://shop.furaffinity.net/cdn/shop/products/furrified-icon-enamel-pin-190681_1024x1024@2x.jpg?v=1669444807",
+      "date": "2022-11-26"
+    },
+    {
+      "file": "furrified_icon_enamel_pin_gold.webp",
+      "title": "Furrified Icon Enamel Pin",
+      "userUrl": "https://shop.furaffinity.net/products/furrified-icon-enamel-pin",
+      "userName": "Furaffinity Shop",
+      "postUrl": "https://x.com/FurAffinity/status/1596382592361799681",
+      "directUrl": "https://shop.furaffinity.net/cdn/shop/products/furrified-icon-enamel-pin-850235_1024x1024@2x.jpg?v=1669444807",
+      "date": "2022-11-26"
+    },
+    {
+      "file": "fa_est_2005.jpg",
+      "title": "10th Anniversary Design",
+      "userUrl": "https://x.com/FurAffinity",
+      "userName": "Furaffinity",
+      "postUrl": "https://x.com/FurAffinity/status/551471271213793280",
+      "directUrl": "https://pbs.twimg.com/media/B6c4MurIUAAPxvX?format=jpg&name=large",
+      "date": "2015-01-03"
+    },
+    {
+      "file": "orange_splat_logo_enamel_pin.jpg",
+      "title": "Orange Splat Logo Enamel Pin",
+      "userUrl": "https://shop.furaffinity.net/products/small-splat-logo-enamel-pin",
+      "userName": "Furaffinity Shop",
+      "directUrl": "https://shop.furaffinity.net/cdn/shop/products/preorder-orange-splat-logo-enamel-pin-preorder-920731_1024x1024@2x.jpg?v=1623209538",
+      "date": "2010-01-01"
+    }
+  ]
+}

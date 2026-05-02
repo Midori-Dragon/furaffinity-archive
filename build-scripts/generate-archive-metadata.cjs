@@ -103,10 +103,17 @@ function first(...candidates) {
 }
 
 /**
- * Expand a multi-artist FA user URL into parallel arrays.
+ * Expand a multi-artist URL field into parallel arrays.
  *
- * A multi-artist URL looks like:
- *   https://www.furaffinity.net/user/alice,bob,carol/
+ * Two syntaxes are supported:
+ *
+ *   Pipe-separated (different base URLs):
+ *     https://www.furaffinity.net/gallery/alice|https://vgen.co/bob
+ *     AuthorTitle: Alice|Bob
+ *
+ *   Comma-separated (same base URL, FA-style username segment):
+ *     https://www.furaffinity.net/user/alice,bob,carol/
+ *     AuthorTitle: Alice,Bob,Carol
  *
  * Returns { userUrl, userName } where both are arrays when multiple artists are
  * detected, or plain strings (pass-through) for a single artist.
@@ -117,11 +124,37 @@ function first(...candidates) {
  */
 function expandUserUrl(url, name) {
     if (!url) return {};
-    // Match the /user/<segment>/ part of a FA URL
-    const m = url.match(/^(.*\/user\/)([^/]+)(\/?)$/);
+
+    // --- Pipe-separated: each segment may itself be a comma-group or a single URL ---
+    if (url.includes('|')) {
+        const urlSegments = url.split('|').map(u => u.trim()).filter(Boolean);
+        const nameSegments = name ? name.split('|').map(n => n.trim()).filter(Boolean) : [];
+
+        const flatUrls = [];
+        const flatNames = [];
+        urlSegments.forEach(function (seg, i) {
+            // Recursively expand each pipe segment (handles comma-groups within a segment)
+            const expanded = expandUserUrl(seg, nameSegments[i]);
+            if (Array.isArray(expanded.userUrl)) {
+                flatUrls.push(...expanded.userUrl);
+                flatNames.push(...(Array.isArray(expanded.userName) ? expanded.userName : [expanded.userName || seg]));
+            } else if (expanded.userUrl) {
+                flatUrls.push(expanded.userUrl);
+                // Fall back to last path segment as display name when userName is absent
+                flatNames.push(expanded.userName || expanded.userUrl.replace(/\/+$/, '').split('/').pop() || expanded.userUrl);
+            }
+        });
+
+        if (flatUrls.length === 0) { const out = {}; out.userUrl = url; if (name) out.userName = name; return out; }
+        if (flatUrls.length === 1) { const out = { userUrl: flatUrls[0] }; if (flatNames[0]) out.userName = flatNames[0]; return out; }
+        return { userUrl: flatUrls, userName: flatNames };
+    }
+
+    // --- Comma-separated: shared base URL, multiple usernames in path segment ---
+    const m = url.match(/^(.*\/(?:user|gallery)\/)([^/]+)(\/?)$/);
     if (!m || !m[2].includes(',')) {
         const out = {};
-        if (url) out.userUrl = url;
+        out.userUrl = url;
         if (name) out.userName = name;
         return out;
     }

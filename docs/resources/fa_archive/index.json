@@ -1,6 +1,22 @@
 {
   "banners": [
     {
+      "file": "fa-banner-spring-vgen-20260501.jpg",
+      "title": "May 2026 Banner",
+      "userUrl": [
+        "https://www.furaffinity.net/user/jamesalesto/",
+        "https://www.furaffinity.net/user/sciggles/",
+        "https://vgen.co/furyRaptor23"
+      ],
+      "userName": [
+        "jamesalesto",
+        "sciggles",
+        "furyraptor23"
+      ],
+      "directUrl": "https://d.furaffinity.net/media/banners/modern/fa-banner-spring-vgen-20260501.jpg",
+      "date": "2026-05-01"
+    },
+    {
       "file": "fa-banner-spring-delki-20260423.jpg",
       "title": "April 2026 Banner",
       "userUrl": "https://www.furaffinity.net/user/delki/",
@@ -1721,6 +1737,21 @@
     }
   ],
   "posts_and_art": [
+    {
+      "file": "genie-rednef.webp",
+      "title": "VGenChallenge Paws Collab",
+      "userUrl": [
+        "https://www.furaffinity.net/gallery/jamesalesto",
+        "https://vgen.co/furyRaptor23"
+      ],
+      "userName": [
+        "JamesAlesto",
+        "furyRaptor23"
+      ],
+      "postUrl": "https://www.furaffinity.net/journal/11352379",
+      "directUrl": "https://d.furaffinity.net/media/journals/2026/05/20260501-genie-rednef.webp",
+      "date": "2026-05-02"
+    },
     {
       "file": "this_is_fine.webp",
       "title": "This is fine",

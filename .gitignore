@@ -141,3 +141,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Generated archive resources (built by npm run docs:archive from assets/fa_archive/)
+docs/resources/fa_archive/

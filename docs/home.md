@@ -1,6 +1,6 @@
 # FurAffinity Archive
 
-Archive of official FurAffinity promotional images collected over time.
+Archive of FurAffinity promotional images collected over time.
 
 <a href="#/fa-archive/icons" style="font-size: 28px; font-weight: 400; color: white;">Icons</a>
 

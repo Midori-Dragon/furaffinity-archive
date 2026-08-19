@@ -1,0 +1,57 @@
+name: Archive Latest Banner
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "How many of the newest banners to check"
+        default: "1"
+      dry_run:
+        description: "Fetch and report without committing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: archive-banner
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest banner
+        id: fetch
+        run: npm run banners:fetch -- --limit ${{ inputs.limit }} ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Commit new banner
+        id: commit
+        if: steps.fetch.outputs.added != '0' && !inputs.dry_run
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: ${{ steps.fetch.outputs.commit_message }}
+          file_pattern: assets/fa_archive/banners/*
+
+      - name: Rebuild docs site
+        if: steps.commit.outputs.changes_detected == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy-docs.yml --ref main

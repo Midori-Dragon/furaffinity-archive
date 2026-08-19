@@ -4,7 +4,8 @@
     "type": "module",
     "scripts": {
         "docs": "docsify serve docs -o",
-        "docs:archive": "node build-scripts/generate-archive-metadata.cjs"
+        "docs:archive": "node build-scripts/generate-archive-metadata.cjs",
+        "banners:fetch": "node build-scripts/fetch-latest-banners.cjs"
     },
     "keywords": [
         "archive",
@@ -18,6 +19,7 @@
     "author": "Midori Dragon",
     "description": "Archive of official FurAffinity promotional images collected over time",
     "devDependencies": {
+        "cheerio": "^1.0.0",
         "exiftool-vendored": "^35.18.0",
         "docsify-cli": "^4.4.4"
     }

@@ -26,7 +26,41 @@ const { exiftool } = require('exiftool-vendored');
 
 const BANNER_MUSEUM_URL = 'https://www.furaffinity.net/route/banner_museum';
 const BANNERS_DIR = path.resolve('./assets/fa_archive/banners');
-const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) furaffinity-archive/1.0';
+
+const USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
+
+// Cloudflare scores requests on header coherence. Node's defaults (accept: */*,
+// accept-language: *, sec-fetch-mode: cors) contradict a browser User-Agent, which is
+// tolerated from residential IPs but blocked with 403 from CI address ranges.
+const BROWSER_HEADERS = {
+    'User-Agent': USER_AGENT,
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Sec-CH-UA': '"Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"',
+    'Sec-CH-UA-Mobile': '?0',
+    'Sec-CH-UA-Platform': '"Windows"',
+};
+
+const PAGE_HEADERS = {
+    ...BROWSER_HEADERS,
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Upgrade-Insecure-Requests': '1',
+};
+
+const IMAGE_HEADERS = {
+    ...BROWSER_HEADERS,
+    'Accept': 'image/avif,image/webp,image/apng,image/svg+xml,*/*;q=0.8',
+    'Referer': BANNER_MUSEUM_URL,
+    'Sec-Fetch-Dest': 'image',
+    'Sec-Fetch-Mode': 'no-cors',
+    'Sec-Fetch-Site': 'cross-site',
+};
+
+const RETRY_STATUSES = new Set([403, 429, 500, 502, 503, 504]);
+const MAX_ATTEMPTS = 3;
 
 const MONTH_NAMES = [
     'January', 'February', 'March', 'April', 'May', 'June',
@@ -79,14 +113,51 @@ function parseArgs(argv) {
 // ---------------------------------------------------------------------------
 
 /**
- * Fetch a URL and return its body as a Buffer.
+ * Summarise a failed response. Cloudflare block pages are indistinguishable from one
+ * another without the ray id and mitigation reason.
+ * @param {Response} res
+ * @returns {Promise<string>}
+ */
+async function describeFailure(res) {
+    const notable = ['server', 'cf-ray', 'cf-mitigated', 'retry-after']
+        .map(name => [name, res.headers.get(name)])
+        .filter(([, value]) => value)
+        .map(([name, value]) => `${name}: ${value}`);
+
+    let snippet = '';
+    try {
+        snippet = (await res.text()).replace(/\s+/g, ' ').trim().slice(0, 200);
+    } catch {
+        snippet = '';
+    }
+    if (snippet) notable.push(`body: ${snippet}`);
+
+    return notable.join(' | ');
+}
+
+/**
+ * Fetch a URL as a Buffer, retrying the statuses Cloudflare uses for rate limiting
+ * and bot mitigation.
  * @param {string} url
+ * @param {Record<string, string>} headers
  * @returns {Promise<Buffer>}
  */
-async function fetchBuffer(url) {
-    const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-    if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}`);
-    return Buffer.from(await res.arrayBuffer());
+async function fetchBuffer(url, headers) {
+    let lastError;
+
+    for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+        const res = await fetch(url, { headers, redirect: 'follow' });
+        if (res.ok) return Buffer.from(await res.arrayBuffer());
+
+        lastError = new Error(`HTTP ${res.status} ${res.statusText} for ${url} (${await describeFailure(res)})`);
+        if (!RETRY_STATUSES.has(res.status) || attempt === MAX_ATTEMPTS) break;
+
+        const delayMs = attempt * 2000;
+        console.warn(`  ${c.yellow}– HTTP ${res.status}, retrying in ${delayMs / 1000}s${c.reset}`);
+        await new Promise(resolve => setTimeout(resolve, delayMs));
+    }
+
+    throw lastError;
 }
 
 /**
@@ -95,7 +166,7 @@ async function fetchBuffer(url) {
  * @returns {Promise<{ $: cheerio.CheerioAPI, images: any[] }>}
  */
 async function fetchBannerImages(limit) {
-    const html = (await fetchBuffer(BANNER_MUSEUM_URL)).toString('utf8');
+    const html = (await fetchBuffer(BANNER_MUSEUM_URL, PAGE_HEADERS)).toString('utf8');
     const $ = cheerio.load(html);
 
     const columnPage = $('#columnpage');
@@ -193,10 +264,10 @@ async function archiveBanner(img) {
     let buffer;
     let used = full;
     try {
-        buffer = await fetchBuffer(full.imageUrl);
+        buffer = await fetchBuffer(full.imageUrl, IMAGE_HEADERS);
     } catch (err) {
         console.warn(`  ${c.yellow}– full-size failed (${err.message}), trying thumbnail${c.reset}`);
-        buffer = await fetchBuffer(fallback.imageUrl);
+        buffer = await fetchBuffer(fallback.imageUrl, IMAGE_HEADERS);
         used = fallback;
     }
 
